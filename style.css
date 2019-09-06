@@ -1,0 +1,202 @@
+.fictional,.welcome{
+    position: relative;
+    color: white;
+}
+.uni-image{
+    position: absolute;
+    width: 100%;
+    height: 450px;
+}
+.fictional{
+    text-align: end;
+    display: flex;
+    justify-content: space-between;
+    font-size: smaller;
+    margin-left: 50px;
+}
+.strong{
+    font-size:25px;
+    margin-top: 10px;
+}
+
+.welcome{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 100px;
+}
+.fa, .fas {
+    font-weight: 900;
+    font-size:x-large;
+    margin-top: 10px;
+}
+/* .library img{
+    height: 400px;
+    width: 100%;
+}  */
+.login,.signup{
+    color: white;
+    background-color: #f9903a;
+    padding: 8px 15px 8px 15px;
+    margin-top: 10px;
+    border: none;
+}
+.signup{
+     background-color: #ff3115;
+}
+.upin-buttons{
+      padding: initial;
+}
+
+.major-btn{
+    color: white;
+    background-color:#043867;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.event-btn{
+    color: white;
+    background-color:#043867;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.events{
+    margin-top: 50px;
+}
+.upcoming{
+    text-align: center;
+    font-size: x-large;
+    color: #043867;
+}
+/* #library{
+    margin-top: 0px;
+} */
+.division{
+    display: flex;
+}
+.march,.april{
+    color:white;
+    background-color:#043867;
+    padding: 20px 20px 20px 20px;
+    border-radius: 80px;
+    font-size: xx-large;
+    border: none;
+}
+.poetry2,.picnic2{
+     display: inline-block;
+     color:#043867;
+}
+.anchor{
+    color:gray; 
+}
+.august{
+    color:white;
+    background-color:#f6d652;
+    padding: 20px 20px 20px 20px;
+    border-radius: 80px;
+    font-size: xx-large;
+    border: none;
+}
+.award2,.test-post2{
+    display: inline-block;
+}
+.blogs{
+    background-color: #faf2c8;
+}
+.blog-btn{
+    background-color:#f6d652;
+    color: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.event-btn,.blog-btn{
+    margin-left: 25%;
+}
+.btn-1{
+    padding: 5px;
+    border-radius: 12px;
+    background-color: #352c01;
+    border: none;
+    margin-left: 40%;
+}
+.btn-2{
+    padding: 5px;
+    border-radius: 12px;
+    background-color: #352c01;
+    border: none;
+}
+.btn-3{
+    padding: 5px;
+    border-radius: 12px;
+    background-color: #352c01;
+    border: none;
+}
+
+.transportation{
+background-color:rgb(231, 118, 118);
+color:white;
+width:50%;
+padding: 14px;
+background-color: transparent;
+    opacity: inherit;
+    border: 1px double black;
+    margin-top: 30%;
+    margin-left: 25%;
+}
+.transportation h1{
+margin-left: 30%;
+}
+.transportation p{
+    margin-left: 30%;
+}
+
+.transportation button{
+    margin-left: 40%;
+    }
+#footer{
+   display: flex;
+   color: #333030; 
+}
+#footer h3{
+margin-left: 55%;
+}
+#footer h2{
+    /* margin-left: 45%; */
+}
+.connect{
+    margin-left: 80px;
+}
+
+.events{
+    display: inline-block;
+}
+
+.transportation, #bus-image{
+    position: relative;
+}
+
+#bus-image{
+    position: absolute;
+}
+.fonts{
+    font-size: 250%;
+margin-left: 45%;
+}
+.fab fa-facebook-square{
+background-color:blue;
+}
+
+#facebook{
+    color: blue;
+}
+ #twiter{
+    color: rgb(139, 139, 236);
+ }
+ #youtube{
+    color: red;
+ } 
+#linkedin{
+    color: rgb(43, 43, 161);
+ }
+#instagram{
+    color: rgb(241, 19, 193);
+  }
